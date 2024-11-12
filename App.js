@@ -229,7 +229,6 @@ const styles = StyleSheet.create({
   },
 });
 
-// Светлая тема
 const lightStyles = StyleSheet.create({
   container: {
     backgroundColor: '#e0f7fa',
@@ -268,7 +267,6 @@ const lightStyles = StyleSheet.create({
   },
 });
 
-// Темная тема
 const darkStyles = StyleSheet.create({
   container: {
     backgroundColor: '#212121',
